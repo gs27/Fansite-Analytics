@@ -1,4 +1,4 @@
-# Code for fansite analytics
+# Code for fansite analytics Challange
 
 # imports 
 import sys
